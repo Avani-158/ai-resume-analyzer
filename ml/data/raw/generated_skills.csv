@@ -1,0 +1,26 @@
+role,skills
+AI Engineer,python;machine learning;deep learning;nlp;computer vision;tensorflow;pytorch
+ML Engineer,python;machine learning;scikit-learn;feature engineering;model deployment;mlops
+Data Scientist,python;pandas;numpy;statistics;data visualization;tableau;power bi
+Backend Developer,python;django;flask;sql;rest api;database design;authentication
+Full Stack Developer,react;node.js;mongodb;express;frontend;backend;javascript
+Frontend Developer,html;css;javascript;react;ui ux;responsive design
+DevOps Engineer,docker;kubernetes;aws;azure;ci cd;linux;monitoring
+Cloud Engineer,aws;azure;gcp;cloud computing;networking;virtualization
+Cybersecurity Analyst,network security;ethical hacking;penetration testing;cryptography
+Mobile Developer,flutter;android;ios;dart;mobile ui;api integration
+Data Analyst,excel;sql;tableau;power bi;data cleaning;reporting
+Software Engineer,java;python;c++;oop;system design;algorithms;data structures
+AI Researcher,deep learning;transformers;research;model optimization;experimentation
+NLP Engineer,python;nlp;bert;transformers;text processing;language models
+Computer Vision Engineer,opencv;cnn;image processing;object detection;segmentation
+Big Data Engineer,hadoop;spark;etl;data pipelines;distributed systems
+Game Developer,unity;c#;game engines;physics;rendering
+Embedded Engineer,c;microcontrollers;iot;real-time systems
+Blockchain Developer,solidity;ethereum;web3;smart contracts
+AR VR Developer,unity;unreal;3d;virtual reality;augmented reality
+QA Engineer,testing;selenium;automation;debugging;quality assurance
+System Administrator,linux;servers;networking;monitoring;deployment
+Database Administrator,sql;indexing;optimization;performance tuning
+Product Manager,product strategy;agile;roadmap;stakeholder management
+UI UX Designer,figma;adobe xd;wireframes;prototyping;user research
